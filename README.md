@@ -8,7 +8,7 @@ LinkedIn: https://www.linkedin.com/in/rút-ní-eithir-08717b219
 Email: rut.nieithir@hotmail.com
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
-{project-name}: {link-to-repo}
+Todo App: https://github.com/nierut/todoApp
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
 LeetCode: https://leetcode.com/nierut
